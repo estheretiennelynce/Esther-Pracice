@@ -28,6 +28,8 @@
         android:layout_height="200dp"
         android:text="Cayes Friends!"
         android:id="@+id/flashcard_answer"
+        android:textSize="30sp"
+        android:gravity="center"
         android:layout_below="@+id/flashcard_question"
         android:visibility="invisible"/>
 
