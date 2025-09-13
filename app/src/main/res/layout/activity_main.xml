@@ -33,5 +33,18 @@
         android:layout_below="@+id/flashcard_question"
         android:visibility="invisible"/>
 
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/add"
+        android:id="@+id/add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
+
+
+
+
+
 
     </RelativeLayout>
